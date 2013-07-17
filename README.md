@@ -118,8 +118,8 @@ Contract Developer:  April 2013 - Current
 
 ## Speaking
 
-##### RE BarCamp  –  Metrolist
-I spoke at this event in 2012 and gave a presentation on WordPress. It was a success and I was asked back for a second time. [Event link](http://www.metrolist.com/mymls_popup.asp?page=news&article=1209_re_barcamp)
+##### [RE BarCamp  –  Metrolist](http://www.metrolist.com/mymls_popup.asp?page=news&article=1209_re_barcamp)
+I spoke at this event in 2012 and gave a presentation on WordPress. It was a success and I was asked back for a second time. 
 
 ## Contact Me
 
