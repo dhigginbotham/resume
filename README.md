@@ -123,7 +123,7 @@ I spoke at this event in 2012 and gave a presentation on WordPress. It was a suc
 
 ## Contact Me
 
-- [Email](davehigginbotham@gmail.com)
+- [Email](mailto:davehigginbotham@gmail.com)
 - [Github](https://github.com/dhigginbotham)
 - [Coderbits](https://coderbits.com/dhz)
 - [LinkedIn](http://www.linkedin.com/in/dahigginbotham/)
