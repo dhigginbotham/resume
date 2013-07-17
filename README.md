@@ -53,7 +53,7 @@ Front End Developer / Graphic Designer:  August 2008 – January 2010
 
 **Technologies:** Aptana, Notepad++, Photoshop, Illustrator, HTML, ASP, PHP, Ruby on Rails, CSS, JavaScript, jQuery, SSH, CURL, WordPress
 
-### Snaffo, Inc.
+### [Snaffo, Inc.](#)
 Web Developer / Graphic Designer / Internet Marketing Manager:  February 2010 – December 2010
 
   Duties:
@@ -68,7 +68,7 @@ Web Developer / Graphic Designer / Internet Marketing Manager:  February 2010 �
 **Technologies:** Aptana, Notepad++, Photoshop, Illustrator, HTML, PHP, CSS, JavaScript, jQuery, SSH, CURL, WordPress
  
 
-### The Global Elements
+### [The Global Elements](http://theglobalelements.com/)
 Senior Web Developer:  January 2011 – December 2011
 
   Duties:
@@ -92,7 +92,7 @@ Application Developer:  April 2011 - Current
 
 **Technologies:** SublimeText, Nodepad++, Photoshop, PHP, LESS, Node.js, CoffeeScript, Mocha, Jade, Mustache/Hogan.js, Ember.js, jQuery, MongoDB
 
-### Mobile Accord, Inc.
+### [Mobile Accord, Inc.](https://mgive.com/)
 Contract Developer:  April 2013 - Current
 
   Duties:
