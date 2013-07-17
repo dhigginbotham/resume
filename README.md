@@ -39,7 +39,7 @@ Chief Technology Officer:  July 2005 – May 2008
   - Design environment for Army Corp of Engineers to transfer files from Denver offices to Battalions in Iraq.
   - Create paperless filing standard with full implemention throughout sister companies located in California and Colorado.
 
-**Technologies:** Dreamweaver, TextEdit+, UltraEdit, Photoshop, Illustrator, HTML, ASP, CSS, JavaScript, MySQL, SSH, CURL
+**Tools:** Dreamweaver, TextEdit+, UltraEdit, Photoshop, Illustrator, HTML, ASP, CSS, JavaScript, MySQL, SSH, CURL
 
 ### [Hillside Software](http://hillsidesoftware.com/)
 Front End Developer / Graphic Designer:  August 2008 – January 2010
@@ -50,7 +50,7 @@ Front End Developer / Graphic Designer:  August 2008 – January 2010
   - Create Logos and Vector Print Designs in Illustrator.
   - Help maintain and create new features for the HomeCards IDX software
 
-**Technologies:** Aptana, Notepad++, Visual Studio, VB, .NET, Photoshop, Illustrator, HTML, Ruby on Rails, CSS, JavaScript, jQuery, SSH, CURL
+**Tools:** Aptana, Notepad++, Visual Studio, VB, .NET, Photoshop, Illustrator, HTML, Ruby on Rails, CSS, JavaScript, jQuery, SSH, CURL
 
 ### [Snaffo, Inc.](#)
 Developer / Designer:  February 2010 – December 2010
@@ -63,7 +63,7 @@ Developer / Designer:  February 2010 – December 2010
   - Create Proposals and Invoices for Company billing to clients and accounting.
   - Design Marketing Material and Landing Pages for Email Campaigns.
 
-**Technologies:** Aptana, Notepad++, Photoshop, Illustrator, HTML, PHP, CSS, JavaScript, jQuery, SSH, CURL, WordPress
+**Tools:** Aptana, Notepad++, Photoshop, Illustrator, HTML, PHP, CSS, JavaScript, jQuery, SSH, CURL, WordPress
  
 
 ### [The Global Elements](http://theglobalelements.com/)
@@ -76,7 +76,7 @@ Senior Web Developer:  January 2011 – December 2011
   - Create Logos and Vector Print Designs in Illustrator.
   - Use CMS systems like WordPress, ModX for Client Websites.
 
-**Technologies:** Dreamweaver, TextEdit+, UltraEdit, Eclipse, Photoshop, Illustrator, HTML, ASP, PHP, Ruby on Rails, CSS, JavaScript, jQuery, MySQL, SQLite, SSH, CURL, ASP.NET
+**Tools:** Dreamweaver, TextEdit+, UltraEdit, Eclipse, Photoshop, Illustrator, HTML, ASP, PHP, Ruby on Rails, CSS, JavaScript, jQuery, MySQL, SQLite, SSH, CURL, ASP.NET
 
 ### [Hillside Software](http://hillsidesoftware.com/)
 Application Developer:  April 2011 - Current
@@ -87,7 +87,7 @@ Application Developer:  April 2011 - Current
   - Write Node.js scripts for large data processing/deligation
   - Develop Single Property Facebook Social Application in Node.js / Express.js
 
-**Technologies:** SublimeText, Nodepad++, Photoshop, PHP, LESS, Node.js, CoffeeScript, Mocha, Jade, Mustache/Hogan.js, Ember.js, jQuery, MongoDB
+**Tools:** SublimeText, Nodepad++, Photoshop, PHP, LESS, Node.js, CoffeeScript, Mocha, Jade, Mustache/Hogan.js, Ember.js, jQuery, MongoDB
 
 ### [Mobile Accord, Inc.](https://mgive.com/)
 Contract Developer:  April 2013 - Current
@@ -98,7 +98,7 @@ Contract Developer:  April 2013 - Current
   - Social Share Node.js, Express, Mongoose application
   - m2Screen Node.js, Express, Mongoose application
 
-**Technologies:** SublimeText, Nodepad++, Node.js, CoffeeScript, Mocha, Jade, NeDB, Angular.js, Ember.js, jQuery, Mongoose, Zombie.js, Request.js, SockJS, Socket.io
+**Tools:** SublimeText, Nodepad++, Node.js, CoffeeScript, Mocha, Jade, NeDB, Angular.js, Ember.js, jQuery, Mongoose, Zombie.js, Request.js, SockJS, Socket.io
 
 ## Education
 
