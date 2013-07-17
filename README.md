@@ -1,7 +1,5 @@
 # David Higginbotham
 
-----
-
 ### Skills
 
 - Solutions-driven, motivated self-starter. Works well in groups or in solo-projects with serious attention to detail (pixel perfect).
