@@ -123,4 +123,5 @@ I spoke at this event in 2012 and gave a presentation on WordPress. It was a suc
 - [Email](mailto:davehigginbotham@gmail.com)
 - [Github](https://github.com/dhigginbotham)
 - [Coderbits](https://coderbits.com/dhz)
+- [Codeivate](http://www.codeivate.com/users/dhigginbotham)
 - [LinkedIn](http://www.linkedin.com/in/dahigginbotham/)
