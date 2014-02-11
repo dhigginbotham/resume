@@ -2,10 +2,10 @@
 
 ### Key Achievements
 
-- Designed software architecture and wireframe for internet marketing software that utilized email and lead capturing components. This software used for a mortgage company in Southern California receives on average of 300 leads per day in their desired demographic. Languages Used: PHP, Ruby on Rails, HTML, CSS, JavaScript, jQuery Framework.
+- Designed software architecture and wire-frame for Internet marketing software that utilized email and lead capturing components. This software used for a mortgage company in Southern California receives on average of 300 leads per day in their desired demographic. Languages Used: PHP, Ruby on Rails, HTML, CSS, JavaScript, jQuery Framework.
 - Currently designed over 1,000 website templates and many websites for different companies.  Languages Used: PHP, HTML, CSS, JavaScript, jQuery Framework.
 - Developed file-secure platforms for the US Army Reserve to establish secure means of transfer for sensitive data throughout Battalions in Iraq and Afghanistan.
-- Developing Web UX/UI and Design for over 15 years. Languages Used: HTML, CSS, Javascript, ASP .NET
+- Developing Web UX/UI and Design for over 15 years. Languages Used: HTML, CSS, JavaScript, ASP .NET
 
 ### Skills
 
@@ -13,14 +13,14 @@
 - Respected for remaining calm in stressful situations, under tight deadlines and as an asset to the team.  
 - Resourceful and driven to find a practical, deliverable solution that is profitable for the customer as well as for the Company.  
 - Known for well-honed skills in multi-tasking and creative instincts in UI/UX development. 
-- Development of beautiful design Layouts in HTML, CSS, JAVASCRIPT, Photoshop and Illustrator.
+- Development of beautiful design Layouts in HTML, CSS, JavaScript, Photoshop and Illustrator.
 
 #### Languages
 CoffeeScript, JavaScript, PHP, C/C++, CSS (LESS)
 
 #### Frameworks
 
-#####Javascript: 
+#####JavaScript: 
 Node.js, Express.js, Hapi.js, Angular.js, Mocha, Jade, Handlebars/Mustache, MongoDB/Mongoose, SQL, jQuery
 
 #####PHP: 
@@ -79,7 +79,7 @@ Senior Web Developer:  January 2011 – December 2011
 **Tools:** Dreamweaver, TextEdit+, UltraEdit, Eclipse, Photoshop, Illustrator, HTML, ASP, PHP, Ruby on Rails, CSS, JavaScript, jQuery, MySQL, SQLite, SSH, CURL, ASP.NET
 
 ### [Hillside Software](http://hillsidesoftware.com/)
-Application Developer:  April 2011 - Current
+Application Developer:  April 2011 - September 2013
 
   Duties:
 
@@ -94,11 +94,21 @@ Contract Developer:  April 2013 - Current
 
   Duties:
 
-  - End-to-end contract developer for custom micro applications including:
+  - End-to-end contract developer for custom micro applications including
   - Social Share Node.js, Express, Mongoose application
   - m2Screen Node.js, Express, Mongoose application
 
 **Tools:** SublimeText, Nodepad++, Node.js, CoffeeScript, Mocha, Jade, NeDB, Angular.js, Ember.js, jQuery, Mongoose, Zombie.js, Request.js, SockJS, Socket.io
+
+### [HomeAdvisor](https://homeadvisor.com/)
+Front-end Developer:  September 2013 - Current
+
+  Duties:
+
+  - JavaScript & CSS ninja for the consumer site
+  - Develop image compression automation tasks with Gulp with an imagediff step
+
+**Tools:** SublimeText, Node.js, JavaScript, Mocha, Jade, Angular.js, jQuery, Mongoose, Spring MVC, Java, IntelliJ IDEA
 
 ## Education
 
