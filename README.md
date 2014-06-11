@@ -16,7 +16,7 @@
 - Development of beautiful design Layouts in HTML, CSS, JavaScript, Photoshop and Illustrator.
 
 #### Languages
-CoffeeScript, JavaScript, PHP, C/C++, CSS (LESS)
+JavaScript, PHP, C/C++, CSS (LESS)
 
 #### Frameworks
 
@@ -95,8 +95,8 @@ Contract Developer:  April 2013 - Current
   Duties:
 
   - End-to-end contract developer for custom micro applications including
-  - Social Share Node.js, Express, Mongoose application
-  - m2Screen Node.js, Express, Mongoose application
+  - Social Share Node.js, Express, Angular.js, Mongoose application
+  - m2Screen Node.js, Express, Angular.js, Mongoose application
 
 **Tools:** SublimeText, Nodepad++, Node.js, CoffeeScript, Mocha, Jade, NeDB, Angular.js, Ember.js, jQuery, Mongoose, Zombie.js, Request.js, SockJS, Socket.io
 
@@ -106,7 +106,8 @@ Front-end Developer:  September 2013 - Current
   Duties:
 
   - JavaScript & CSS ninja for the consumer site
-  - Develop image compression automation tasks with Gulp with an imagediff step
+  - Develop image compression automation tasks with Gulp with an imagediff step using node.js
+  - Lead front-end developer on the consumer site results page in Angular.js viewed over 5mil+ times a year
 
 **Tools:** SublimeText, Node.js, JavaScript, Mocha, Jade, Angular.js, jQuery, Mongoose, Spring MVC, Java, IntelliJ IDEA
 
