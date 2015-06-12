@@ -108,6 +108,8 @@ Front-end Developer:  September 2013 - Current
   - JavaScript & CSS ninja for the consumer site
   - Develop image compression automation tasks with Gulp with an imagediff step using node.js
   - Lead front-end developer on the consumer site results page in Angular.js viewed over 5mil+ times a year
+  - Refactored old styleguides to use preprocessor (LESS) and created living styleguide for the consumer site
+  - Developed custom json model for front-end to get and share values from back-end controllers to front-end js
 
 **Tools:** SublimeText, Node.js, JavaScript, Mocha, Jade, Angular.js, jQuery, Mongoose, Spring MVC, Java, IntelliJ IDEA
 
