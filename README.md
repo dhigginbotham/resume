@@ -101,7 +101,7 @@ Contract Developer:  April 2013 - Current
 **Tools:** SublimeText, Nodepad++, Node.js, CoffeeScript, Mocha, Jade, NeDB, Angular.js, Ember.js, jQuery, Mongoose, Zombie.js, Request.js, SockJS, Socket.io
 
 ### [HomeAdvisor](https://homeadvisor.com/)
-Front-end Developer:  September 2013 - Current
+Front-end Developer:  September 2013 - August 2015
 
   Duties:
 
@@ -112,6 +112,17 @@ Front-end Developer:  September 2013 - Current
   - Developed custom json model for front-end to get and share values from back-end controllers to front-end js
 
 **Tools:** SublimeText, Node.js, JavaScript, Mocha, Jade, Angular.js, jQuery, Mongoose, Spring MVC, Java, IntelliJ IDEA
+
+### [HomeAdvisor](https://homeadvisor.com/)
+Senior Front-end Developer:  August 2015 - Current
+
+  Duties:
+
+  - Senior JavaScript & CSS ninja for core products
+  - Implemented Nightwatch.js for UAT testing across site and got front-end developers setup and trained
+  - Responsible for JavaScript & CSS code quality of other front-end developers
+
+**Tools:** SublimeText, Node.js, JavaScript, Mocha, Jade, jQuery, Mongoose, Spring MVC, Java, IntelliJ IDEA, Elastic Search, jconsole, Nightwatch.js, Docker
 
 ## Education
 
