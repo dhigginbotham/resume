@@ -90,7 +90,7 @@ Application Developer:  April 2011 - September 2013
 **Tools:** SublimeText, Nodepad++, Photoshop, PHP, LESS, Node.js, CoffeeScript, Mocha, Jade, Mustache/Hogan.js, Ember.js, jQuery, MongoDB
 
 ### [Mobile Accord, Inc.](https://mgive.com/)
-Contract Developer:  April 2013 - Current
+Contract Developer:  April 2013 - October 2014
 
   Duties:
 
